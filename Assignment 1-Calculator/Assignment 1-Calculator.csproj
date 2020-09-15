@@ -6,4 +6,8 @@
     <RootNamespace>Assignment_1_Calculator</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\Owner\Desktop\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
 </Project>
